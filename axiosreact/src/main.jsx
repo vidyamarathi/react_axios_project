@@ -4,6 +4,7 @@ import ReactDOM from 'react-dom/client'
 //import Data_table from './axrequest/Data_table'
 import Bootstrap from './axrequest/Bootstrap'
 
+
 //import './index.css'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
@@ -11,5 +12,6 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     {/* <App /> */}
     {/* <Data_table/> */}
     <Bootstrap/>
+   
   </React.StrictMode>,
 )
